@@ -13,4 +13,4 @@ Simple web project, deployment can be on any web server or even local file syste
 
 ## How to contribute
 
-Sample website with plenty of files for demos
+Simple website with plenty of files for demos
